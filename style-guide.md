@@ -11,10 +11,10 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Red: hsl(0, 78%, 62%)
-- Cyan: hsl(180, 62%, 55%)
-- Orange: hsl(34, 97%, 64%)
-- Blue: hsl(212, 86%, 64%)
+- Prj9Red: hsl(0, 78%, 62%) #ea5353
+- Prj9Cyan: hsl(180, 62%, 55%) #45d3d3
+- Prj9Orange: hsl(34, 97%, 64%) #fcaf4a
+- Prj9Blue: hsl(212, 86%, 64%) #549ef2
 
 ### Neutral
 
